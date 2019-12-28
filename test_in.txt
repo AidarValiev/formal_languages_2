@@ -1,4 +1,4 @@
-17
+21
 3
 S' S
 S SS
@@ -162,7 +162,7 @@ D cD
 S SSb
 S C
 C Dd
-D -1
+D $
 ccdcdba
 1
 
@@ -173,6 +173,44 @@ D cD
 S SSb
 S C
 C Dd
-D -1
+D $
 aacdf
+0
+
+4
+S' S
+S SS
+S $
+S (S)
+(()())(())
+1
+
+4
+S' S
+S SS
+S $
+S (S)
+())(()
+0
+
+7
+S' S
+D 1
+D D0
+D D1
+S S+S
+S (S)
+S D
+(1001+10)+100
+1
+
+7
+S' S
+D 1
+D D0
+D D1
+A S+S
+S (S)
+S D
+(1001+010)+100)
 0
