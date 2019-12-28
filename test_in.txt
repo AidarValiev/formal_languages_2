@@ -1,0 +1,178 @@
+17
+3
+S' S
+S SS
+S a
+aaa
+1
+
+3
+S' S
+S SS
+S a
+aabaaa
+0
+
+3
+S' S
+S SS
+S a
+aabaabcde
+0
+
+4
+S' S
+S a
+S bSb
+S cSc
+bab
+1
+
+4
+S' S
+S a
+S bSb
+S cSc
+cac
+1
+
+7
+S' S
+S AB
+C a
+A bCb
+A bAb
+B cCc
+B cBc
+bbabbcac
+1
+
+7
+S' S
+S AB
+C a
+A bCb
+A bAb
+B cCc
+B cBc
+cacbbabb
+0
+
+7
+S' S
+S AB
+C a
+A bCb
+A bAb
+B cCc
+B cBc
+babccac
+0
+
+7
+S' S
+S AB
+C a
+A bCb
+A bAb
+B cCc
+B cBc
+babdcac
+0
+
+7
+S' S
+S AB
+C a
+A bCb
+A bAb
+B cCc
+B cBc
+babcac
+1
+
+4
+S' S
+S SS
+S a
+S bSc
+bbaccbacbac
+1
+
+4
+S' S
+S SS
+S a
+S bSc
+bbaccbacbc
+0
+
+12
+S' S
+S ABCDE
+A a
+A Aa
+B b
+B Bb
+C c
+C Cc
+D d
+D Dd
+E e
+E Ee
+aabbbccde
+1
+
+12
+S' S
+S ABCDE
+A a
+A Aa
+B b
+B Bb
+C c
+C Cc
+D d
+D Dd
+E e
+E Ee
+aabbcdeee
+1
+
+12
+S' S
+S ABCDE
+A a
+A Aa
+B b
+B Bb
+C c
+C Cc
+D d
+D Dd
+E e
+E Ee
+aaabbbcee
+0
+
+7
+S' S
+S Sa
+D cD
+S SSb
+S C
+C Dd
+D -1
+ccdcdba
+1
+
+7
+S' S
+S Sa
+D cD
+S SSb
+S C
+C Dd
+D -1
+aacdf
+0
