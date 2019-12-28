@@ -85,7 +85,7 @@ public:
 		int n; in >> n;
 		for (int i = 0; i < n; ++i) {
 			in >> s1 >> s2;
-			if (s2 == "-1")
+			if (s2 == "$")
 				s2 = "";
 			if (s1 != START_SYMBOL + "'") {
 				rules.emplace_back((int)(s1[0] - 'A'), s2);
@@ -163,6 +163,7 @@ int main(int argc, char** argv) {
 			in >> x;
 			counter += (x == ans);
 		}
+		out << counter << '/' << n << " tests passed\n";
 		in.close();
 		out.close();
 		std::cout << counter << '/' << n << " tests passed\n";
